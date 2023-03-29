@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# TODO Check for webdev and prompt to run ./script/setup if missing
+webdev serve
