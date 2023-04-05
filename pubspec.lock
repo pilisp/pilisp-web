@@ -324,10 +324,11 @@ packages:
   pilisp:
     dependency: "direct main"
     description:
-      path: "../pilisp"
-      relative: true
-    source: path
-    version: "1.0.0-alpha.4"
+      name: pilisp
+      sha256: "28ca327a7e3972e05e9f99055743d3be0787c0e243b7c2a341afddcee433129e"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0-alpha.7"
   pointycastle:
     dependency: transitive
     description:
