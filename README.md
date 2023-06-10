@@ -1,3 +1,5 @@
+*(Repository Deprecated: See [pilisp/pilisp-monorepo](https://github.com/pilisp/pilisp-monorepo))*
+
 Extension of PiLisp targeting the Web (JavaScript).
 
 > Alpha. Much works, much may change.
